@@ -20,7 +20,7 @@ import java.util.Date;
 @TableName(value = "tb_newbee_mall_user", schema = "myschema")
 public class User {
 
-    private String testAttribute;
+    private String testAttributeMasterMaster;
     //用户主键id
     private Integer user_id;
     //用户昵称
