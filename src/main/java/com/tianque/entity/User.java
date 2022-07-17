@@ -19,6 +19,8 @@ import java.util.Date;
 @ToString
 @TableName(value = "tb_newbee_mall_user", schema = "myschema")
 public class User {
+
+    private String testAttribute;
     //用户主键id
     private Integer user_id;
     //用户昵称
