@@ -22,6 +22,7 @@ public class User {
 
     private String testAttributeMasterMaster;
     private String testAttributeHotFix;
+    private String testPush;
     //用户主键id
     private Integer user_id;
     //用户昵称
